@@ -4,4 +4,5 @@
 - 🔥 Working with Blockchain & DeFi & Web3
 - 🌐 <a href="https://www.linkedin.com/in/polevych"  target="blank">Linkedin</a> 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=polevych&show_icons=true&hide_title=true&count_private=true" alt="polevych" /></p>
+// <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=polevych&show_icons=true&hide_title=true&count_private=true" alt="polevych" />
+// </p>
